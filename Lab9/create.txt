@@ -1,0 +1,2 @@
+CREATE DATABASE lesson9;
+CREATE TABLE books ( id int, title varchar(100), author varchar(40), published_year int);
